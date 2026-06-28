@@ -65,7 +65,7 @@ ATM-Simulator-System/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ATM-Simulator-System.git
+git clone https://github.com/your-username/ATM-Stimulator-.git
 ```
 
 ### 2. Open the Project
