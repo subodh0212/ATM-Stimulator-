@@ -171,17 +171,3 @@ Contributions are welcome.
 5. Open a Pull Request.
 
 ---
-
-## 📄 License
-
-This project is created for educational and learning purposes.
-
----
-
-## 👨‍💻 Author
-
-**Yash**
-
-Computer Engineering Student
-
-Made with ❤️ using Java.
