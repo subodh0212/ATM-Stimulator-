@@ -118,11 +118,15 @@ Add screenshots here after uploading your project.
 
 <img width="1920" height="1020" alt="Screenshot 2026-06-28 212757" src="https://github.com/user-attachments/assets/59eddd02-1eaf-43fc-804a-08feac44069b" />
 
+
 <img width="1046" height="997" alt="image" src="https://github.com/user-attachments/assets/ef175a36-6569-401e-8481-c4afef882b36" />
 
-<img width="1125" height="1080" alt="image" src="https://github.com/user-attachments/assets/7ef31950-8894-4dda-9e2f-42f1ddd4ca9a" />
+
+<img width="1125" height="1035" alt="image" src="https://github.com/user-attachments/assets/a749a13c-c8f5-4800-8dcc-47a97b98e0f9" />
+
 
 <img width="1102" height="980" alt="image" src="https://github.com/user-attachments/assets/87a7ee0f-90f4-44fc-95de-02028e0f3b2b" />
+
 
 <img width="1125" height="1021" alt="image" src="https://github.com/user-attachments/assets/43073e14-66a7-4b25-b5fc-4e931b876721" />
 
